@@ -61,3 +61,18 @@
   display: flex;
   flex-direction: column;
 }
+
+.operator {
+  border: 1rpx solid gray;
+  flex: 2;
+  text-align: center;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}

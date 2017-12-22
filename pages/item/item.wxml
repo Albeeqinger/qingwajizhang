@@ -31,7 +31,7 @@
           <view hover hover-class='number-hover' hover-stay-time='50' class='number' data-num='.' catchtap='touchNum'>.</view>
           <view hover hover-class='number-hover' hover-stay-time='50' class='number' data-num='0' catchtap='touchNum'>0</view>
           <view hover hover-class='number-hover' hover-stay-time='50' class='number' catchtap='touchClear'>
-            <image src='../../images/回退.png'></image>
+            <image style='width:100rpx;height:50rpx' src='../../images/回退.png'></image>
           </view>
         </view>
       </view>
