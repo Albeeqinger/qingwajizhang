@@ -1,0 +1,7 @@
+{
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#9ADA00",
+  "navigationBarTitleText": "记账",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true
+}

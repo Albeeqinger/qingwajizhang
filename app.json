@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/detail/detail",
+    "pages/chart/chart",
+    "pages/item/item",
+    "pages/find/find",
+    "pages/mine/mine"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#9ADA00",
+    "navigationBarTitleText": "青蛙记账",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "selectedIconPath": "images/明细1.png",
+        "iconPath": "images/明细.png",
+        "pagePath": "pages/detail/detail",
+        "text": "明细"
+      },
+      {
+        "selectedIconPath": "images/图表1.png",
+        "iconPath": "images/图表.png",
+        "pagePath": "pages/chart/chart",
+        "text": "图表"
+      },
+      {
+        "selectedIconPath": "images/记账1.png",
+        "iconPath": "images/记账.png",
+        "pagePath": "pages/item/item",
+        "text": "记账"
+      },
+      {
+        "selectedIconPath": "images/发现1.png",
+        "iconPath": "images/发现.png",
+        "pagePath": "pages/find/find",
+        "text": "发现"
+      },
+      {
+        "selectedIconPath": "images/我的1.png",
+        "iconPath": "images/我的.png",
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  }
+}

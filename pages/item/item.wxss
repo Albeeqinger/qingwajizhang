@@ -1,0 +1,24 @@
+page {
+  overflow: hidden;
+  height: 100%;
+}
+
+.select-consumption-patterns {
+  width: 100%;
+}
+
+.consumption-patterns-item {
+  width: 25%;
+  display: inline-block;
+  position: relative;
+}
+
+.consumption-patterns-item-icon {
+  width: 60rpx;
+  height: 60rpx;
+}
+
+.consumption-patterns-item-text {
+  margin-top: 20rpx;
+  font-size: 25rpx;
+}
