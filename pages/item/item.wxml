@@ -1,4 +1,4 @@
-<view class='ui-height-100' bindtap='hiddenCalculator'>
+<scroll-view scroll-y='true' bindtap='hiddenCalculator'>
   <view class='select-consumption-patterns ui-pt20'>
     <view class='consumption-patterns-item' wx:for="{{consumpPatternsList}}">
       <view class='ui-flex-ver ui-flex-center ui-p10 ui-m10' data-index='{{index}}' bindtap='onConsumpItemClick'>
@@ -42,4 +42,4 @@
       </view>
     </view>
   </block>
-</view>
+</scroll-view>
