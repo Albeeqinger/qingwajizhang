@@ -1,4 +1,4 @@
-// pages/chart/chart.js
+
 Page({
 
   /**
