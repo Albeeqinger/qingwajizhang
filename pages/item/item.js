@@ -4,7 +4,7 @@ Page({
     consumpPatternsList: [],
     billNo: '',
     date: '',
-    selectName: '餐饮',
+    selectName: '餐饮lalla',
     selectIcon: '../../images/餐饮.png',
     isShowCalculator: false,
     spendMoney: '0.00',
